@@ -1,0 +1,1 @@
+CREATE TABLE word_table(name VARCHAR(20) NOT NULL, definition VARCHAR(70) NOT NULL, grade_level INT NOT NULL, synonym VARCHAR(20) NOT NULL, antonym VARCHAR(20) NOT NULL
