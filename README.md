@@ -1,2 +1,2 @@
 # Vocab-Project
-A personal project that would create a database of vocabulary words. These words are separated by grade level, for use in a hypothetical spelling test.
+A personal project that would create a database of vocabulary words. These words are separated by grade level, for use in a hypothetical spelling test. This project has NOT been updated for Python 3.0, and only works in Python 2.0 versions. Certain functions such as the MySQLdb module will not work for this reason. This project was completed previously and is being uploaded for archival reasons. Database information besides the created table has been dummied out.
